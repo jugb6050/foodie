@@ -1,0 +1,51 @@
+
+/* Class = "UILabel"; text = "Test"; ObjectID = "2Xw-bi-5Zr"; */
+"2Xw-bi-5Zr.text" = "Test";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "8c7-KK-jRK"; */
+"8c7-KK-jRK.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "Add To Cart"; ObjectID = "Da8-OY-G5o"; */
+"Da8-OY-G5o.normalTitle" = "Add To Cart";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GZt-Sx-Z6v"; */
+"GZt-Sx-Z6v.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KOA-rN-Hq7"; */
+"KOA-rN-Hq7.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NbF-Xq-Gfg"; */
+"NbF-Xq-Gfg.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "bjh-d9-9Z4"; */
+"bjh-d9-9Z4.normalTitle" = "-";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gDV-Ti-7eJ"; */
+"gDV-Ti-7eJ.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Get Started"; ObjectID = "hBa-dF-OO5"; */
+"hBa-dF-OO5.normalTitle" = "Get Started";
+
+/* Class = "UILabel"; text = "View Cart"; ObjectID = "leU-UM-1Cs"; */
+"leU-UM-1Cs.text" = "View Cart";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "oAn-Xd-CzT"; */
+"oAn-Xd-CzT.text" = "0";
+
+/* Class = "UILabel"; text = "Regular Fries"; ObjectID = "oMb-Di-lXW"; */
+"oMb-Di-lXW.text" = "Regular Fries";
+
+/* Class = "UILabel"; text = "Test"; ObjectID = "pQS-QX-5Fy"; */
+"pQS-QX-5Fy.text" = "Test";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qU6-CB-VTm"; */
+"qU6-CB-VTm.text" = "Label";
+
+/* Class = "UILabel"; text = "Fastest Food Delivery"; ObjectID = "t1n-cz-4ZF"; */
+"t1n-cz-4ZF.text" = "Fastest Food Delivery";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "x9U-ff-EVc"; */
+"x9U-ff-EVc.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Get your favourite food fast."; ObjectID = "znx-nQ-sk5"; */
+"znx-nQ-sk5.text" = "Get your favourite food fast.";

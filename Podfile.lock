@@ -1,0 +1,20 @@
+PODS:
+  - FittedSheets (2.4.0)
+  - M13Checkbox (3.4.0)
+
+DEPENDENCIES:
+  - FittedSheets
+  - M13Checkbox
+
+SPEC REPOS:
+  trunk:
+    - FittedSheets
+    - M13Checkbox
+
+SPEC CHECKSUMS:
+  FittedSheets: 470a7740a083156d711ab6ccd37d1d539005e6aa
+  M13Checkbox: 6f59404540ac98ba83a3d1afac335895a40c6a5d
+
+PODFILE CHECKSUM: f1e140003c1bec75bdd953a00ccddc4bf6e651cb
+
+COCOAPODS: 1.10.1
